@@ -1,0 +1,16 @@
+Winning numbers:
+    Write a program that will get current time and use it as a seed for random number generation
+        import datetime
+        return datetime.dateime.now()
+
+    Used that as a seed to:
+        generate 5 numbers from 1-50
+        and 1 number between 1-20
+
+    class:
+        create seed
+
+
+Players:
+    Create random players
+        create 100 random players and assign winning numbers to thems
